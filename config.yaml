@@ -1,0 +1,4 @@
+input: 
+  filename: '/Users/xudongsun/Documents/code/python/IRR/data/Loan IRR.xlsx'
+  default_sheetname: 'Charged Off'
+  prepay_sheetname: 'Prepay'
